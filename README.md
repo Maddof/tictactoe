@@ -1,3 +1,3 @@
 # tictactoe
 
-God help me finish this project.
+Console version of Tic Tac Toe for the odin project
